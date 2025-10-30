@@ -4,7 +4,7 @@
   "description": "estudo de react e next",
   "main": "index.js",
   "scripts": {
-    "dev":"next dev"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
